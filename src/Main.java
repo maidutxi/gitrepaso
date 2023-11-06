@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Me gusta el mar");
         System.out.println("me gusta la fiesta");
         System.out.println("No se que poner");
+        System.out.println("Adiós");
     }
 }
