@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Mi perro se llama Luna");
         System.out.println("Me gusta el mar");
         System.out.println("me gusta la fiesta");
+        System.out.println("No se que poner");
     }
 }
